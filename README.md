@@ -319,18 +319,3 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 [![GitHub](https://img.shields.io/badge/GitHub-akdinesh2003-black?style=for-the-badge&logo=github)](https://github.com/akdinesh2003)
 
-**Made with ❤️ and lots of laughter**
-
-*If this project made you smile, consider giving it a ⭐ on GitHub!*
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Star this repo if it helped you relax! 🌟
-
-**Happy Laughing! 😄**
-
-</div>

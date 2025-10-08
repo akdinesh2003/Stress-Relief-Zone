@@ -9,8 +9,6 @@
 
 **A fun, interactive web project designed to help stressed visitors relax with domain-specific jokes!**
 
----
-
 ## 🎯 About The Project
 
 Stress Relief Jokes is an interactive web application that helps people relax and unwind through humor. Whether you're a developer debugging code at 3 AM, a tech enthusiast, or just someone who needs a good laugh, this project has got you covered with 50+ carefully curated jokes across 5 different domains!

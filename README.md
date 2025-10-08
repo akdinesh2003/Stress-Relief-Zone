@@ -9,30 +9,6 @@
 
 **A fun, interactive web project designed to help stressed visitors relax with domain-specific jokes!**
 
-[Live Demo](#) • [Report Bug](#) • [Request Feature](#)
-
-</div>
-
----
-
-## 📋 Table of Contents
-
-- [About The Project](#about-the-project)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the Project](#running-the-project)
-- [API Configuration](#api-configuration)
-- [Usage](#usage)
-- [Joke Domains](#joke-domains)
-- [Customization](#customization)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
-
 ---
 
 ## 🎯 About The Project

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stress Relief Jokes - Relax & Laugh</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>😄 Stress Relief Zone</h1>
+            <p class="tagline">Take a break, pick a domain, and laugh away your stress!</p>
+        </header>
+
+        <div class="domain-selector">
+            <button class="domain-btn active" data-domain="technology">💻 Technology</button>
+            <button class="domain-btn" data-domain="coding">👨‍💻 Coding</button>
+            <button class="domain-btn" data-domain="office">🏢 Office Life</button>
+            <button class="domain-btn" data-domain="internet">🌐 Internet</button>
+            <button class="domain-btn" data-domain="ai">🤖 AI & ML</button>
+        </div>
+
+        <div class="joke-display">
+            <div class="joke-card">
+                <p class="joke-text" id="jokeText">Click "Get a Joke" to start laughing!</p>
+            </div>
+            <button class="joke-btn" id="getJokeBtn">Get a Joke 🎲</button>
+        </div>
+
+        <div class="stats">
+            <p>Jokes told today: <span id="jokeCount">0</span></p>
+            <p>Current mood: <span id="moodIndicator">😐 Neutral</span></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
